@@ -39,9 +39,7 @@ I applied the following Wireshark filters to inspect different protocols:
 |---------|-------------|
 | DNS | `dns` |
 | TCP | `tcp` |
-| UDP | `udp` |
 | TLS/HTTPS | `tls` |
-| HTTP (if any) | `http` |
 
 Screenshots for each filter are added inside the `/screenshots` folder.
 
